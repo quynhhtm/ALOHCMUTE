@@ -1,0 +1,1 @@
+Dự án xây dựng trang mạng xã hội sử dụng Spring Boot, Thymeleaf, Bootstrap, JPA, Socket và SQL Server với các chức năng chính là cho phép người dùng đăng ký và sử dụng tài khoản để đăng trạng thái và bình luận vào trạng thái, tham gia các hội nhóm va nhắn tin với người dùng khác. Quản trị viên có thể kiểm soát các trạng thái bị báo cáo và các tài khoản.
